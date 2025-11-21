@@ -53,7 +53,5 @@ AST (pretty):
   </pre>
 
   <footer>
-    MIT License — Contributions welcome. (Keep it simple: open an issue or PR.)
-  </footer>
 </body>
 </html>
